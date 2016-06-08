@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* This project aims to provide localize a Turtlebot using RGB-D SLAM. 
+* This project aims to localize a Turtlebot using RGB-D SLAM. 
 * [Wiki Page](https://github.com/shl202/Turtlebot-Localization-Using-RGB-D-SLAM/wiki)
 
 
